@@ -1,8 +1,8 @@
 {
-  "name": "learnjsfundamentals",
+  "name": "nodejstemplate",
   "version": "0.1",
   "private": true,
-  "description": "Learn JS Fundamentals",
+  "description": "Minimal NodeJS Template",
   "author": "Alex DK <alex@plan2025.ru>",
   "license": "UNLICENSED",
   "keywords": [
