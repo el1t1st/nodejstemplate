@@ -3,7 +3,7 @@
   "version": "0.1",
   "private": true,
   "description": "Minimal NodeJS Template",
-  "author": "Alex DK <alex@plan25.org>",
+  "author": "Alex DK <alexdk@plan25.org>",
   "license": "UNLICENSED",
   "keywords": [
     "nodejs"
